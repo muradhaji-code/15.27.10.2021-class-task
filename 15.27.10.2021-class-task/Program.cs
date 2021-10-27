@@ -25,7 +25,11 @@ namespace _15._27._10._2021_class_task
             #endregion
 
             #region Task 5
-            Console.WriteLine("Number: 83746, index: 3, Nth digit: " + FindNthDigit(83746, 3));
+            //Console.WriteLine("Number: 83746, index: 3, Nth digit: " + FindNthDigit(83746, 3));
+            #endregion
+
+            #region Task 6
+            Console.WriteLine("Decimal: 13, Binary: " + ToBinary(13));
             #endregion
         }
 
@@ -93,6 +97,27 @@ namespace _15._27._10._2021_class_task
                 index--;
             }
             return number % 10;
+        }
+
+        static string ToBinary(int number)
+        {
+            string binar = "";
+            while (number != 0)
+            {
+                binar = number % 2 + binar;
+                #region alternative 1
+                //if (number % 2 == 1)
+                //{
+                //    binar = "1" + binar;
+                //}
+                //else
+                //{
+                //    binar = "0" + binar;
+                //}
+                #endregion
+                number /= 2;
+            }
+            return binar;
         }
     }
 }

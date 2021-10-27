@@ -1,0 +1,16 @@
+C:\Users\tu201806256\source\repos\15.27.10.2021-class-task\15.27.10.2021-class-task\bin\Debug\net5.0\15.27.10.2021-class-task.exe
+C:\Users\tu201806256\source\repos\15.27.10.2021-class-task\15.27.10.2021-class-task\bin\Debug\net5.0\15.27.10.2021-class-task.deps.json
+C:\Users\tu201806256\source\repos\15.27.10.2021-class-task\15.27.10.2021-class-task\bin\Debug\net5.0\15.27.10.2021-class-task.runtimeconfig.json
+C:\Users\tu201806256\source\repos\15.27.10.2021-class-task\15.27.10.2021-class-task\bin\Debug\net5.0\15.27.10.2021-class-task.runtimeconfig.dev.json
+C:\Users\tu201806256\source\repos\15.27.10.2021-class-task\15.27.10.2021-class-task\bin\Debug\net5.0\15.27.10.2021-class-task.dll
+C:\Users\tu201806256\source\repos\15.27.10.2021-class-task\15.27.10.2021-class-task\bin\Debug\net5.0\ref\15.27.10.2021-class-task.dll
+C:\Users\tu201806256\source\repos\15.27.10.2021-class-task\15.27.10.2021-class-task\bin\Debug\net5.0\15.27.10.2021-class-task.pdb
+C:\Users\tu201806256\source\repos\15.27.10.2021-class-task\15.27.10.2021-class-task\obj\Debug\net5.0\15.27.10.2021-class-task.csproj.AssemblyReference.cache
+C:\Users\tu201806256\source\repos\15.27.10.2021-class-task\15.27.10.2021-class-task\obj\Debug\net5.0\15.27.10.2021-class-task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu201806256\source\repos\15.27.10.2021-class-task\15.27.10.2021-class-task\obj\Debug\net5.0\15.27.10.2021-class-task.AssemblyInfoInputs.cache
+C:\Users\tu201806256\source\repos\15.27.10.2021-class-task\15.27.10.2021-class-task\obj\Debug\net5.0\15.27.10.2021-class-task.AssemblyInfo.cs
+C:\Users\tu201806256\source\repos\15.27.10.2021-class-task\15.27.10.2021-class-task\obj\Debug\net5.0\15.27.10.2021-class-task.csproj.CoreCompileInputs.cache
+C:\Users\tu201806256\source\repos\15.27.10.2021-class-task\15.27.10.2021-class-task\obj\Debug\net5.0\15.27.10.2021-class-task.dll
+C:\Users\tu201806256\source\repos\15.27.10.2021-class-task\15.27.10.2021-class-task\obj\Debug\net5.0\ref\15.27.10.2021-class-task.dll
+C:\Users\tu201806256\source\repos\15.27.10.2021-class-task\15.27.10.2021-class-task\obj\Debug\net5.0\15.27.10.2021-class-task.pdb
+C:\Users\tu201806256\source\repos\15.27.10.2021-class-task\15.27.10.2021-class-task\obj\Debug\net5.0\15.27.10.2021-class-task.genruntimeconfig.cache

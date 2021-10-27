@@ -17,7 +17,15 @@ namespace _15._27._10._2021_class_task
             #endregion
 
             #region Task 3
-            Console.WriteLine("Sum of digits of 12345: " + SumOfDigits(12345));
+            //Console.WriteLine("Sum of digits of 12345: " + SumOfDigits(12345));
+            #endregion
+
+            #region Task 4
+            //Console.WriteLine("Factorial of 6: " + MyFactorial(6));
+            #endregion
+
+            #region Task 5
+            Console.WriteLine("Number: 83746, index: 3, Nth digit: " + FindNthDigit(83746, 3));
             #endregion
         }
 
@@ -64,6 +72,27 @@ namespace _15._27._10._2021_class_task
                 num /= 10;
             }
             return sum;
+        }
+
+        static int MyFactorial(int num)
+        {
+            int fact = 1;
+            while (num != 1)
+            {
+                fact *= num;
+                num--;
+            }
+            return fact;
+        }
+
+        static int FindNthDigit(int number, int index)
+        {
+            while (index != 1)
+            {
+                number /= 10;
+                index--;
+            }
+            return number % 10;
         }
     }
 }
